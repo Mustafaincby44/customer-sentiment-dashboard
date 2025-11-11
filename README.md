@@ -26,6 +26,20 @@ This application allows users to paste or upload raw customer reviews and receiv
 3.  **Create a Project:** Go to `My Projects` and click "Create New Analysis".
 4.  **Analyze:** Paste your customer reviews and click the "Analyze Sentiment" button to get your report.
 
+Install Dependencies:
+  Open a terminal in the project folder and run the following command to install all necessary packages.
+
+    npm install
+
+      
+
+▶️ Starting the Development Server
+
+  Run the Application:
+  After the dependencies are installed, run the following command to start the development server.
+  
+    npm run dev
+
 ---
 
 ## 🇹🇷 Türkçe
@@ -50,6 +64,26 @@ Bu uygulama, kullanıcıların ham müşteri yorumlarını yapıştırmasına ve
 3.  **Proje Oluşturun:** `Projelerim`'e gidin ve "Yeni Analiz Oluştur"a tıklayın.
 4.  **Analiz Edin:** Müşteri yorumlarınızı yapıştırın ve raporunuzu almak için "Duyguları Analiz Et" düğmesine tıklayın.
 
+🛠️ Kurulum
+
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+
+  Bağımlılıkları Yükleyin:
+  Proje klasöründe bir terminal açın ve aşağıdaki komutu çalıştırarak gerekli tüm paketleri yükleyin.
+
+    npm install
+
+      
+
+▶️ Geliştirme Sunucusunu Başlatma
+
+  Uygulamayı Çalıştırın:
+  Bağımlılıklar yüklendikten sonra, geliştirme sunucusunu başlatmak için aşağıdaki komutu çalıştırın.
+  
+    npm run dev
+
+  
+
 ---
 
 ## 🇷🇺 Русский
@@ -73,6 +107,20 @@ Bu uygulama, kullanıcıların ham müşteri yorumlarını yapıştırmasına ve
 2.  **Добавьте ваш API-ключ:** В приложении перейдите в `Настройки` > `Управление API-ключом`, вставьте свой ключ и нажмите "Сохранить". Ключ надежно хранится в локальном хранилище вашего браузера.
 3.  **Создайте проект:** Перейдите в `Мои проекты` и нажмите "Создать новый анализ".
 4.  **Анализируйте:** Вставьте отзывы ваших клиентов и нажмите кнопку "Анализировать настроения", чтобы получить ваш отчет.
+
+Установите зависимости:
+  Откройте терминал в папке проекта и выполните следующую команду, чтобы установить все необходимые пакеты.
+
+    npm install
+
+      
+
+▶️ Запуск сервера разработки
+
+  Запустите приложение:
+  После установки зависимостей выполните следующую команду, чтобы запустить сервер разработки.
+  
+    npm run dev
 
 ---
 
