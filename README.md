@@ -24,10 +24,10 @@ This application allows users to paste or upload raw customer reviews and receiv
 This is a standalone web application. You don't need a server or build tools to run it.
 
 1.  **Download the Project Files:**
-    Make sure you have all the project files (`index.html`, `index.tsx`, etc.) in the same folder on your computer.
 
 2.  **Open in Browser:**
-    Simply open the `index.html` file in a modern web browser like Chrome, Firefox, or Edge.
+
+        localhost:3000
 
 3.  **Get a Gemini API Key:**
     You need a Google Gemini API key to use the analysis features. You can get one for free from [Google AI Studio](https://aistudio.google.com/api-keys).
@@ -71,10 +71,29 @@ Bu uygulama, kullanıcıların ham müşteri yorumlarını yapıştırmasına ol
 Bu, bağımsız bir web uygulamasıdır. Çalıştırmak için bir sunucuya veya derleme araçlarına ihtiyacınız yoktur.
 
 1.  **Proje Dosyalarını İndirin:**
-    Tüm proje dosyalarının (`index.html`, `index.tsx`, vb.) bilgisayarınızda aynı klasörde olduğundan emin olun.
+
+        🛠️ Kurulum
+
+        Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+
+         Bağımlılıkları Yükleyin:
+           Proje klasöründe bir terminal açın ve aşağıdaki komutu çalıştırarak gerekli tüm paketleri yükleyin.
+
+                    npm install
+
+      
+
+            ▶️ Geliştirme Sunucusunu Başlatma
+
+              Uygulamayı Çalıştırın:
+              Bağımlılıklar yüklendikten sonra, geliştirme sunucusunu başlatmak için aşağıdaki komutu çalıştırın.
+  
+                    npm run dev
+
 
 2.  **Tarayıcıda Açın:**
-    `index.html` dosyasını Chrome, Firefox veya Edge gibi modern bir web tarayıcısında açmanız yeterlidir.
+   
+        localhost:3000
 
 3.  **Gemini API Anahtarı Alın:**
     Analiz özelliklerini kullanmak için bir Google Gemini API anahtarına ihtiyacınız var. [Google AI Studio](https://aistudio.google.com/api-keys) adresinden ücretsiz olarak alabilirsiniz.
@@ -82,23 +101,7 @@ Bu, bağımsız bir web uygulamasıdır. Çalıştırmak için bir sunucuya veya
 4.  **API Anahtarınızı Ekleyin:**
     Uygulama tarayıcınızda açıldıktan sonra, `Ayarlar` > `API Anahtarı Yönetimi`'ne gidin, anahtarınızı yapıştırın ve "Kaydet"e tıklayın. Anahtar, tarayıcınızın yerel depolama alanında güvenli bir şekilde saklanır.
 
-🛠️ Kurulum
 
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
-
-  Bağımlılıkları Yükleyin:
-  Proje klasöründe bir terminal açın ve aşağıdaki komutu çalıştırarak gerekli tüm paketleri yükleyin.
-
-    npm install
-
-      
-
-▶️ Geliştirme Sunucusunu Başlatma
-
-  Uygulamayı Çalıştırın:
-  Bağımlılıklar yüklendikten sonra, geliştirme sunucusunu başlatmak için aşağıdaki komutu çalıştırın.
-  
-    npm run dev
 
   
 
@@ -124,10 +127,10 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 Это автономное веб-приложение. Вам не нужен сервер или инструменты сборки для его запуска.
 
 1.  **Скачайте файлы проекта:**
-    Убедитесь, что все файлы проекта (`index.html`, `index.tsx` и т. д.) находятся в одной папке на вашем компьютере.
 
 2.  **Откройте в браузере:**
-    Просто откройте файл `index.html` в современном веб-браузере, таком как Chrome, Firefox или Edge.
+
+        localhost:3000
 
 3.  **Получите API-ключ Gemini:**
     Вам понадобится API-ключ Google Gemini для использования функций анализа. Вы можете получить его бесплатно в [Google AI Studio](https://aistudio.google.com/api-keys).
